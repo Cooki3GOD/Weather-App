@@ -1,7 +1,9 @@
-### About the app
-A simple Weather app that shows you weather, temperature etc. for your location!
+
+### Weather App
+
+A Simple app that displays the weather in the location you chose.
 
 # Screenshot
-A screnshot of a project :
+Here we have project screenshot :
 
-![screenshot](screenshot.png);
+![screenshot](screenshot.jpg)
